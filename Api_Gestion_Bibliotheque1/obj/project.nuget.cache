@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3cViKp4z63hAzmlmNhknelDjCA//TVebR02z9St820g4wuKfQw5h9PmIz3YlV0L6XGm4PYDF76sn7Fmr+ydl5Q==",
+  "dgSpecHash": "aCIaaRruYrmTHVjP4w3q2zP9eBnfZZkwBiCKfa2njOG0G30VFvyOPaF0rdZS79BPMz9NBXmiHBr2aWFF2c15LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aziz\\source\\repos\\Api_Gestion_Bibliotheque1\\Api_Gestion_Bibliotheque1\\Api_Gestion_Bibliotheque1.csproj",
+  "projectFilePath": "C:\\Users\\Aziz\\Source\\Repos\\Api_Gestion_Bibliotheque_Repository\\Api_Gestion_Bibliotheque1\\Api_Gestion_Bibliotheque1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
